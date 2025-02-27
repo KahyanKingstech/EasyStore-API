@@ -88,6 +88,58 @@ collections = '''[
             "WEKOME WP-C45 Car Charger (A+C) 43W – Fast Charging for Your Phone"
         ]
     }
+},
+{
+    "permitted": {
+        "store_id": 1374789,
+        "collection_id": "4362590"
+    },
+    "data": {
+        "id": 4362590,
+        "name": "10000mAh",
+        "title": "10000mAh",
+        "handle": "10000mah",
+        "image_url": null,
+        "origin_image_url": null,
+        "description": "",
+        "body_html": "",
+        "origin_body_html": null,
+        "position": 15,
+        "is_locked": false,
+        "is_published": true,
+        "published_at": "2025-02-10T14:10:00.000+08:00",
+        "updated_at": "2025-02-10T14:10:39.000+08:00",
+        "created_at": "2025-02-10T14:10:01.000+08:00",
+        "visibility": "published",
+        "products": [
+            "WEKOME WP-45 Magnetic Wireless Power Bank 10000mAh Fast Charge 15W"
+        ]
+    }
+},
+{
+    "permitted": {
+        "store_id": 1374789,
+        "collection_id": "4362591"
+    },
+    "data": {
+        "id": 4362591,
+        "name": "20000mAh",
+        "title": "20000mAh",
+        "handle": "20000mah",
+        "image_url": null,
+        "origin_image_url": null,
+        "description": "",
+        "body_html": "",
+        "origin_body_html": null,
+        "position": 16,
+        "is_locked": false,
+        "is_published": true,
+        "published_at": "2025-02-10T14:10:06.000+08:00",
+        "updated_at": "2025-02-10T14:10:40.000+08:00",
+        "created_at": "2025-02-10T14:10:06.000+08:00",
+        "visibility": "published",
+        "products": []
+    }
 }
 ]'''
 
