@@ -5,7 +5,7 @@ from customer import router as customer_router
 from collection import router as collection_router
 from product import router as product_router
 from order import router as order_router
-# from inventory import router as inventory_router
+from inventory import router as inventory_router
 
 app = FastAPI()
 
@@ -21,4 +21,4 @@ app.include_router(customer_router)
 app.include_router(collection_router)
 app.include_router(product_router)
 app.include_router(order_router)
-# app.include_router(inventory_router)
+app.include_router(inventory_router)
